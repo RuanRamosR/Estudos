@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+body{
+    background-color: blanchedalmond;
+    font-family: cursive;
+}
+
+h1{
+    color: black;
+    font-size: 40px;
+}
+
+h1#inicial{
+    background-color: wheat;
+    text-align: center;
+}
+
+h1#principal{
+    color: chartreuse;
+}
+
+h2{
+    color: royalblue;
+}
+
+h2.basico{
+    color: chocolate;
+    font-weight: bold;
+}
+
+h2.intermediario{
+    color: chocolate;
+}
+
+h2.avançados{
+    color: chocolate;
+}
+
+h1#secundário{
+    color: chartreuse;
+}
+
+.destaque{
+    background-color: rgba(173, 173, 32, 0.473);
+}
+
+p{
+    color: royalblue
+}
